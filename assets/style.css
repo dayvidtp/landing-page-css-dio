@@ -124,3 +124,18 @@ h2 {
     font-size: 40px;
     text-shadow: 2px 2px 1px rgba(51, 168, 219, 1);
 }
+
+#professional-challenges {
+    text-align: center;
+}
+
+#professional-challenges h2 {
+    margin-top: 85px;
+}
+
+#professional-challenges p{
+    width: 792px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
