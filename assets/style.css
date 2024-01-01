@@ -139,3 +139,15 @@ h2 {
     margin-top: 30px;
     margin-bottom: 100px;
 }
+
+footer {
+    background-image: linear-gradient(rgba(31, 102, 133, 0.007),rgba(31, 101, 131, 0.3));
+    width: 100%;
+    height: 170px;
+    text-align: center;
+}
+ footer a {
+    font-weight: 700;
+    color: rgba(51, 168, 219, 1);
+    text-decoration: none;
+ }
